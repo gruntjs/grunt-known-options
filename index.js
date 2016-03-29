@@ -7,6 +7,7 @@ module.exports = {
     type: Boolean
   },
   base: {
+    short: 'b',
     info: 'Specify an alternate base path. By default, all file paths are relative to the Gruntfile. ' +
           '(grunt.file.setBase) *',
     type: path
