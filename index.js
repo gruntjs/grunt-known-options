@@ -65,4 +65,8 @@ module.exports = {
     info: 'Output shell auto-completion rules. See the grunt-cli documentation for more information.',
     type: String
   },
+  tasklist: {
+    info: 'List registered tasks from the target Gruntfile in JSON format.',
+    type: Boolean
+  },
 };
