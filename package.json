@@ -10,10 +10,8 @@
     "node": ">=0.10.0"
   },
   "main": "index.js",
-  "dependencies": {
-  },
-  "devDependencies": {
-  },
+  "dependencies": {},
+  "devDependencies": {},
   "files": [
     "index.js"
   ]
